@@ -1,6 +1,7 @@
 /* This program converts a Fahrenheit temperature to a Celsius temperature and decides 
    if the temperature is above the boiling point or below the freezing point */
 #include <iostream>
+#include <string>
 
 int main() {
   // Request and input a temperature.
@@ -17,5 +18,6 @@ int main() {
     std::cout << "That is above the boiling point of water.\n";
   else if (celsius_temp < FreezingPointC)
     std::cout << "That is below the freezing point of water.\n";
+    
   return 0;  /* normal non-error exit code */
 }
