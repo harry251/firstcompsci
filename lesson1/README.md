@@ -1,8 +1,10 @@
 # Lesson 1
 
 ## Table of Contents
-1. [Command Lines](#command-lines)
-2. [Introduction to C++](#introduction-to-c)
+- [Command Lines](#command-lines)
+- [Introduction to C++](#introduction-to-c)
+    - [0. Overview of C++](#0-overview-of-c)
+    - [1. Basics of C++ Programming](#1-basics-of-c-programming)
 
 ## Command Lines 
 
@@ -11,7 +13,7 @@
 2. Go to your directory for the course 
 
 ```bash
-cd /mnt/c/Users/[yourusername]/.../.../
+cd /mnt/c/Users/[yourusername]/...
 ```
 - cd [folder/directory] : Change directory 
 - cd .. : Goes to the previous directory 
@@ -49,7 +51,7 @@ C++ has several basic data types, including:
 - `float`: floating-point numbers
 - `double`: double-precision floating-point numbers
 - `char`: characters
-- `bool`: boolean values (true or false)
+- `bool`: boolean values (true or false) 
 
 You can declare variables with a specific data type:
 
@@ -70,7 +72,36 @@ std::string name = "Ethan";
 /* block comment */
 ```
 
-### 1.3 Input and Output
+### 1.3 Escape Code
+
+```cpp
+'\n' // new line
+'\t' // tab
+'\'' // single quote (')
+'\"' // double quote (")
+'\?' // question mark (?)
+'\\' // backslash (\)
+```
+
+### 1.4 Typed Constant Expressions
+
+```cpp 
+const char newline = '\n';
+newline = '\t'; // this is incorrect
+```
+
+### 1.5 Operators 
+
+#### Arithmetic Operators (`+`, `-`, `*`, `/`, `%`)
+
+```cpp
+x += y; // equivalent to x = x + y;
+x ++; // equivalent to x += 1; and x = x + 1;
+```
+
+#### Comparison Operators (`==`, `!=`, `<`, `>`, `<=`, `>=`)
+
+### 1.6 Input and Output
 For input and output, you'll use the iostream library, which provides the cin and cout objects for reading from and writing to the console, respectively:
 
 ```cpp
@@ -84,4 +115,5 @@ int main() {
     cout << "You are " << age << " years old." << endl;
     return 0;
 }
-'''
+```
+Also `cerr` for standard error (output) stream.
