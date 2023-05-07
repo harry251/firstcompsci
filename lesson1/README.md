@@ -1,4 +1,4 @@
-# Lesson 1
+# Lesson 1: Set Up and Introduction
 
 ## Table of Contents
 - [Command Lines](#command-lines)

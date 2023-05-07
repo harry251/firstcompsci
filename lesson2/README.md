@@ -1,4 +1,4 @@
-# Lesson 2
+# Lesson 2: Control Flow and Functions/Classes
 
 ## Table of Contents
 - [Control Structures](#control-structures)

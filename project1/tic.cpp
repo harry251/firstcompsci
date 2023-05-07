@@ -6,6 +6,7 @@ int checkX[6] = {0, 0, 0, 0, 0, 0}; // this is for X; first 3 row, second 3 col
 bool checkB[3][3] = {{false, false, false}, {false, false, false}, {false, false, false}};
 
 void player_turn() {
+   // Function for handling a player's turn
    char player;
    int row;
    int col;
@@ -28,10 +29,11 @@ void player_turn() {
       checkX[row]++; 
       checkX[col+3]++;
    }
-
 }
 
 bool game_over() {
+   // Function to check if the game is over
+   // Returns true if game over, false otherwise
    for (int i = 0; i < 6; i++) {
       if (checkO[i] == 3) {
          return true; 
@@ -61,6 +63,7 @@ bool game_over() {
 }
 
 void print_board() {
+   // Function to print the Tic Tac Toe board
    for (int i = 0; i < 3; i++) { 
       for (int j = 0; j < 3; j++) {
          std::cout << board[i][j];
@@ -70,15 +73,14 @@ void print_board() {
 }
 
 int main() {
-   // while (game)
+   // Main function for the Tic Tac Toe game
    while(!game_over()) {
       player_turn();
       print_board();
-      // break; 
-      // continue;
    }
 
-   // winner
+   // Game over
+   // TODO: Handle the winner
 
    return 0;
 }
