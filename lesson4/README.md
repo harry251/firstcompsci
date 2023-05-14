@@ -2,8 +2,10 @@
 
 ## Table of Contents
 - [For Loop vs. While Loop](#for-loop-vs-while-loop)
-- [Nested For Loop for 3D](#nested-for-loop-for-3D)
+- [Nested For Loop for 3D](#nested-for-loop-for-3d)
 - [Searching](#searching)
+    - [Linear Search](#linear-search)
+    - [Binary Search](#binary-search)
 
 
 ## For Loop vs. While Loop
