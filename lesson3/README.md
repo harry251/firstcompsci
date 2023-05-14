@@ -1,11 +1,12 @@
-# Project 1
+# Lesson 3: Tic-Tac-Toe
 
 ## Table of Contents
 - [Collections](#collections)
 - [Tic Tac Toe](#tic-tac-toe)
 - [Nested For Loop](#nested-for-loop)
-- [Break Statement](#break-statement)
-- [Continue Statement](#continue-statement)
+- [Controlling Loop](#controlling-loops)
+    - [Break Statement](#break-statement)
+    - [Continue Statement](#continue-statement)
 
 ## Collections
 
@@ -66,7 +67,9 @@ Output:
 
 Nested for loops are useful for accessing individual elements in a 2D array and performing operations on them.
 
-## Break Statement
+## Controlling Loops
+
+### Break Statement
 The `break` statement is used to exit a loop prematurely. When encountered within a loop, the `break` statement terminates the loop and transfers control to the next statement after the loop.
 
 ```cpp
@@ -86,7 +89,7 @@ Output:
 
 In the above example, the loop will stop when `i` becomes `5` because of the `break` statement. The remaining iterations of the loop are skipped, and the program continues execution after the loop.
 
-## Continue Statement
+### Continue Statement
 
 The `continue` statement is used to skip the current iteration of a loop and move on to the next iteration. When encountered within a loop, the `continue` statement immediately jumps to the next iteration without executing the remaining statements within the loop body.
 
