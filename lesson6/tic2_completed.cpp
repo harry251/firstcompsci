@@ -7,7 +7,7 @@ void player_turn(char** board, int bSize, char player) {
    int row;
    int col;
 
-   std::cout << "Player " << player << "'s turn" << std::endl; 
+   std::cout << "Player " << player << "'s turn"; 
 
    while (true) {
       while (true) {
