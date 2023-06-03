@@ -38,7 +38,7 @@
 
 You can find the complete Tic Tac Toe code on my GitHub repository:
 
-- [Tic Tac Toe Repository](https://github.com/harry251/firstcompsci/blob/main/project1/tic.cpp)
+- [Tic Tac Toe Repository](https://github.com/harry251/firstcompsci/blob/main/lesson3/tic.cpp)
 
 ## Nested For Loop
 
