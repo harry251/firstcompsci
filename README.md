@@ -7,11 +7,9 @@ Welcome to the C++ Learning Repository! This is an educational resource designed
 1. [Getting Started](#getting-started)
 2. [Prerequisites](#prerequisites)
 3. [Lessons](#lessons)
-4. [Exercises](#exercises)
-5. [Projects](#projects)
-6. [Contributing](#contributing)
-7. [Resources](#resources)
-8. [License](#license)
+4. [Contributing](#contributing)
+5. [Resources](#resources)
+6. [License](#license)
 
 ## Getting Started
 
