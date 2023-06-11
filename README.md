@@ -58,4 +58,4 @@ In addition to the content provided in this repository, you may find the followi
 
 These resources can help you further develop your C++ skills and stay up-to-date with the latest developments in the language.
 
-## Lincense
+## License
