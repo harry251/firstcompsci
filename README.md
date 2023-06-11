@@ -36,34 +36,20 @@ Before you start learning C++, make sure you have the following installed on you
 
 The lessons in this repository are organized into the following topics:
 
-1. Introduction to C++
-2. Basic Syntax and Data Types
-3. Control Structures
-4. Functions
-5. Object-Oriented Programming
-6. Standard Template Library (STL)
-7. Advanced C++ Concepts
+1. [Set Up and Introduction](https://github.com/harry251/firstcompsci/tree/main/lesson1)
+2. [Basic Syntax and Data Types](https://github.com/harry251/firstcompsci/tree/main/lesson2)
+3. [Tic-Tac-Toe](https://github.com/harry251/firstcompsci/tree/main/lesson3)
+4. [Loops and Searching](https://github.com/harry251/firstcompsci/tree/main/lesson4)
+5. [Recursive functions and Pointers](https://github.com/harry251/firstcompsci/tree/main/lesson5)
+6. [2D Array in the Heap and Tic-Tac-Toe](https://github.com/harry251/firstcompsci/tree/main/lesson6)
+7. [Introduction to Graphs and Linked Lists](https://github.com/harry251/firstcompsci/tree/main/lesson7)
+8. [Graphs & Big-O Notation & Maps](https://github.com/harry251/firstcompsci/tree/main/lesson8)
 
 Each lesson contains a detailed explanation of the topic, code examples, and practice exercises.
-
-## Exercises
-
-The exercises in this repository are designed to reinforce your understanding of the lessons. Each exercise comes with a problem statement, starter code, and sample solutions.
-
-## Projects
-
-To help you apply your C++ knowledge in real-world scenarios, we have included a series of projects that cover various domains, such as:
-
-1. Simple Console Applications
-2. Game Development
-3. Networking
-4. Web Development
 
 ## Contributing
 
 We welcome contributions to this repository! If you have an idea for a new lesson, exercise, or project, please feel free to submit a pull request.
-
-## Resources
 
 ## Resources
 

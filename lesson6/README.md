@@ -1,4 +1,4 @@
-# Lesson 6: Tic-Tac-Toe and 2D Array in the Heap
+# Lesson 6: 2D Array in the Heap and Tic-Tac-Toe
 
 ## Table of Contents
 - [Pointer](https://github.com/harry251/firstcompsci/blob/main/lesson6/pointerExample.cpp)
