@@ -1,4 +1,4 @@
-# Lesson 8: Graphs & Maps & Big-O Notation 
+# Lesson 8: Graphs & Big-O Notation & Maps
 
 ## Table of Contents
 - [Do-While Loop](#do-while-loop)
