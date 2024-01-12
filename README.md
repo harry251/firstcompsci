@@ -59,3 +59,5 @@ In addition to the content provided in this repository, you may find the followi
 These resources can help you further develop your C++ skills and stay up-to-date with the latest developments in the language.
 
 ## License
+
+This project is licensed under the [Apache 2.0 License](https://opensource.org/license/apache-2-0/). By using this extension, you agree to the terms and conditions of the license.
